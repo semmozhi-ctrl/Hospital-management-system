@@ -1,15 +1,8 @@
-# Hospital Management System v2.0
+# Hospital Management System 
 
 ## Overview
 A comprehensive hospital management system built with Python and Tkinter. This modern system provides advanced features for managing patients, doctors, appointments, billing, and generating reports.
 
-## 🚀 New Features Added
-
-### ✨ Modern GUI Interface
-- Clean, modern design with intuitive navigation
-- Role-based access control
-- Responsive layout with proper spacing and colors
-- Professional login screen
 
 ### 👥 Advanced Patient Management
 - Comprehensive patient registration with medical history
@@ -73,13 +66,13 @@ A comprehensive hospital management system built with Python and Tkinter. This m
 
 3. **Run the application**
    ```bash
-   python main.py
+   python simple_main.py
    ```
 
 ## 🔑 Default Login Credentials
 
 - **Username:** admin
-- **Password:** admin123
+- **Password:** admin12
 
 ## 🗂️ Project Structure
 
@@ -109,12 +102,6 @@ Hospital-management-system/
 ```
 
 ## 📱 Features Overview
-
-### Dashboard
-- Quick statistics overview
-- Recent activity summary
-- Navigation sidebar
-- User session information
 
 ### Patient Management
 - Add/Edit/Delete patients
@@ -151,19 +138,6 @@ Hospital-management-system/
 - Revenue trends
 - Custom report generation
 
-## 🎨 Key Improvements Over Original
-
-1. **Modern UI/UX**: Complete redesign with professional interface
-2. **Database Integration**: SQLite database instead of Excel files
-3. **Enhanced Security**: User authentication and role management
-4. **Advanced Features**: Billing, reporting, and analytics
-5. **Better Organization**: Modular code structure
-6. **Error Handling**: Comprehensive error management
-7. **Data Validation**: Input validation and data integrity
-8. **Search & Filter**: Advanced search capabilities
-9. **Professional Design**: Modern colors, fonts, and layout
-10. **Scalability**: Designed for future enhancements
-
 ## 🔧 Technical Details
 
 ### Database Schema
@@ -175,12 +149,6 @@ Hospital-management-system/
 - **Billing**: Financial transactions
 - **Staff**: Hospital staff management
 - **Rooms**: Room and facility management
-
-### Architecture
-- **MVC Pattern**: Separation of concerns
-- **Modular Design**: Independent, reusable components
-- **Event-Driven**: GUI event handling
-- **Database Layer**: Abstracted database operations
 
 ## 🚀 Future Enhancements
 
